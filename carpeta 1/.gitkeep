@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maximiliano leal</title>
+<!-- Este es un comentario que solo el profesor verá: Profe no entiendo porque no puedo ver mi pagina en google revise el archivo y es index.html y el codigo no le encontre algun error pero te queria enviar de todas formas el trabajo -->
+</head>
+<body>
+    <h1>maximiliano </h1>
+    <p>hola soy maximiliano leal estudiante de informatica</p> <br>
+    <p>me gusta programar y aprender cosas nuevas</p>
+     <hr>
+    <lo>l>
+        <li>deportes (futbol boxeo)</li>
+        <li> valorant</li>
+        <li>naruto</li>
+    </lo>
+    <img src="carpeta 1/sasuke.jpg" alt="sasuke" width="200px">
+    <a href="https://www.youtube.com/watch?reload=9&v=6MT6XGRjkjA">resumen de naruto</a>
+
+    <table border="1">
+<tr>
+<td>Nombre</td>
+<td>Edad</td>
+</tr>
+
+<tr>
+<td>Maximiliano</td>
+<td>18</td>
+</tr>
+</table>
+</body>
+</html>
