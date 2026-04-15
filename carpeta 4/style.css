@@ -1,0 +1,39 @@
+html {
+    background-color: rgb(202, 198, 198);
+}
+
+h1 {
+    background-color: blue;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-size: 40px; ;
+}
+
+h2 {
+    color: rgb(7, 7, 7);
+    font-size: 30px; ;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+
+h5 {
+    background-color: rgb(39, 250, 92);
+    color: rgb(7, 7, 7);
+    font-size: 20px; ;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    width: 180px ;
+}
+
+h6 {
+    background-color: rgb(204, 250, 39);
+    color: rgb(7, 7, 7);
+    font-size: 20px; ;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    width: 180px ;
+}
+
+h7 {
+    background-color: rgb(250, 39, 39);
+    color: rgb(7, 7, 7);
+    font-size: 20px; ;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    width: 180px ;
+}
