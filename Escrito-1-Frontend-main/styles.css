@@ -41,7 +41,7 @@ body{
     display: inline-block;
     padding: 20px;
 }
-.header-text h1{
+.header-text h1{ 
     font-size: 70px;
     letter-spacing: 3px;
     color: white;
